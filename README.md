@@ -11,7 +11,7 @@ Hi, I'm Olga. Currently a student at Upleveled Web Development Bootcamp. Origina
 
 ## How I work
 I like to create new things from scratch and to do that I make a clear list of steps needed to achive those goals. 
-Cooking and baking is another one of my passions. 🥧
+Cooking and baking are my other passions that require a clear list of steps. 🥧
 
 ## Get in touch
 - Facebook: https://www.facebook.com/olga.verciuc/
