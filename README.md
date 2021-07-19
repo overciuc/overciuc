@@ -1,6 +1,6 @@
 # Olga Verciuc 🙋
 
-Hi, I'm Olga. Currently a student at Upleveled Full Stack Developer Bootcamp. Originally from Russia, I have traveled the world and finally settled in Vienna, Austria. Love being active and spend time outdoors with my family.
+Hi, I'm Olga. Currently a student at Upleveled Web Development Bootcamp. Originally from Russia, I have traveled the world and finally settled in Vienna, Austria. Love being active and spend time outdoors with my family.
 
 ## My values  
 - 💭 Open mindness
