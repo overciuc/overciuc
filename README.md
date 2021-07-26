@@ -1,6 +1,6 @@
 # Olga Verciuc 🙋
 
-Hi, I'm Olga. Currently a student at Upleveled Web Development Bootcamp. Originally from Russia, I have traveled the world and finally settled in Vienna, Austria. Love being active and spend time outdoors with my family.
+Hi, I'm Olga and I freshly gratuated from Upleveled Web Development Bootcamp. Originally from Russia, I have traveled the world and finally settled in Vienna, Austria. Love being active and spend time outdoors with my family.
 
 ## My values  
 - 💭 Open mindness
@@ -10,8 +10,8 @@ Hi, I'm Olga. Currently a student at Upleveled Web Development Bootcamp. Origina
 - 👽 Being unique
 
 ## How I work
-I like to create new things from scratch and to do that I make a clear list of steps needed to achive those goals. 
-Cooking and baking are my other passions that require a clear list of steps. 🥧
+I like to create new things from scratch and to do that I make a clear list of steps needed to achive these goals. 
+Cooking and baking are other passions of mine that require a clear list of steps. 🥧
 
 ## Get in touch
 - Facebook: https://www.facebook.com/olga.verciuc/
